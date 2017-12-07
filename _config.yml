@@ -4,8 +4,8 @@
 title:               Fugitive Verses
 tagline:             'Popular Reprinted Poetry from Nineteenth Century Newspapers'
 description:         'This project presents transcribed, lightly-encoded editions of poems widely reprinted in nineteenth-century US, UK, and Australian newspapers as discovered through the <a href="http://viraltexts.org" target="_blank">Viral Texts Project</a> at Northeastern University. For more information about the selection, transcription, or other aspects of these poems <a href="http://fugitiverses.viraltexts.org/about.html" target="_blank">see the edition about page</a>.'
-url:                 'http://fugitiverses.viraltexts.org'
-baseurl:             'http://fugitiverses.viraltexts.org'
+url:                 'http://ryancordell.org'
+baseurl:             '/FugitiveVerses'
 
 # About/contact
 author:
