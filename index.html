@@ -2,7 +2,6 @@
 layout: default
 title: "Fugitive Verses"
 ---
-
 <div class="introduction">
 <p><em>Fugitive Verses</em> presents transcribed, lightly-encoded editions of poems widely reprinted in nineteenth-century US, UK, and Australian newspapers as discovered through the <a href="http://viraltexts.org" target="_blank"><em>Viral Texts Project</em></a> at Northeastern University. For more information about the selection, transcription, or other aspects of these poems <a href="http://ryancordell.org/FugitiveVerses/about/">see the edition about page</a>, or view the full reprint clusters in <a href="https://www.google.com/fusiontables/DataSource?docid=1SuIkCKfxnMQrjHxvQOZ_XEsoe8i3R4naMLHNjeo4" target="_blank">this growing table</a>.</p>
 </div>
@@ -10,18 +9,17 @@ title: "Fugitive Verses"
 <hr>
 
 <div class="toc">
-  <h2>Sample texts</h2>
-  <ul class="post">
-  {% for item in site.texts do %}
+  <h2>sample texts</h2>
+  <ul class="texts">
+  {% for item in site.texts %}
   
-    <li class="post-title">
+    <li class="text-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
       </a>
     </li>
   {% endfor %}
-  </ul>  
-
+  </ul>
 </div>
 
 
