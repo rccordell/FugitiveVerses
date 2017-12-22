@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Fugitive Verses</title>
+ <link href="http://ryancordell.org/FugitiveVerses/atom.xml" rel="self"/>
+ <link href="http://ryancordell.org/FugitiveVerses/"/>
+ <updated>2017-12-22T15:53:23-05:00</updated>
+ <id>http://ryancordell.org</id>
+ <author>
+   <name>Ryan Cordell</name>
+   <email>r.cordell@northeastern.edu</email>
+ </author>
+
+ 
+
+</feed>
